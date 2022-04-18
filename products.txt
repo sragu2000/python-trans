@@ -1,0 +1,308 @@
+Fresh Vegetables
+Asparagus
+Broccoli
+Carrots
+Cauliflower
+Celery
+Corn
+Cucumbers
+Garlic
+Kale
+Lettuce
+Other Greens
+Mushrooms
+Onions
+Peppers
+Potatoes
+Spinach
+Squash
+Fresh Fruits
+Apples
+Avocados
+Bananas
+Berries
+Cherries
+Grapefruit
+Grapes
+Kiwis
+Lemons / Limes
+Melon
+Oranges
+Peaches
+Pears
+Plums
+Baked Goods
+Bagels
+Bread
+Buns
+Cake/Cookies
+Croissants
+Donuts
+Muffins
+Pastries
+Pie
+Pita Bread
+Rolls 
+Tortillas
+Canned Fruits
+Applesauce
+Beans
+Chili
+Fruits
+Olives
+Soups
+Stew
+Tomato Sauce
+Tuna
+Vegetables
+Frozen Foods
+Burritos
+Chicken Nuggets
+TV Dinners
+Fish
+Fries
+Fruits
+lce
+Ice Cream
+Juice
+Lasagna
+Pizza
+Pie
+Pot Pies
+Popsicles
+Tater Tots
+Vegetables
+Waffles
+Dairy/ Fridge
+Biscuits
+Butter
+Cheese (String)
+Cheese (Shredded)
+Cheese (Sliced)
+Heavy Cream 
+Cream Cheese
+Cookie Dough
+Dips
+Eggs
+Fruit Juice
+Gogurt
+Half & Half
+Milk
+Almond Milk
+Coconut Milk
+Soy Milk
+Sour Cream 
+Tofu
+Whip Cream
+Yogurt
+Baking/ Dry
+Almonds
+Baking Powder
+Baking Soda
+Bread Crumbs
+Brownie Mix
+Cake Mix
+Canned Milk 
+Chocolate Chips
+Cocoa
+Cookie Mix
+Cornmeal
+Cornstarch 
+Flour
+Food Coloring
+Frosting
+Macademias
+Molasses 
+Muffin Mix
+Oatmeal
+Pecans
+Pie Crust
+Shortening
+Brown Sugar 
+White Sugar
+Powdered Sugar
+Sugar Substitute
+Vanilla
+Walnuts
+Yeast
+Condiments
+Boullion Cubes
+Croutons
+Gravy
+Honey
+Hummus
+Jam/ Jelly
+Ketchup
+Mayonnaise
+Mustard
+Peanut Butter
+Relish
+Salad Dressing
+Salsa
+Sauces/ Oils
+Olive Oil
+Coconut Oil
+Vegetable Oil
+BBQ Sauce
+Hot Sauce
+Lemon Juice
+Lime Juice
+Non-Stick Spray
+Soy Sauce
+Spaghetti Sauce
+Steak Sauce
+Syrup
+Tartar Sauce
+Breakfast
+Cold Cereals
+Creamed Wheat
+Coffee/Filters
+Carnation Instant
+Pancake Mix
+Pop Tarts
+Protein Bars
+Pets
+Pet Food
+Treats
+Cat Litter
+Shannoo
+Toys
+Pasta/ Grains
+Amaranth
+Barley
+Couscous
+Lasagna
+Mac & Cheese
+Macaroni
+Millet 
+Noodle Mixes
+Ramen
+Brown Rice
+White Rice
+Wild Rice
+Quinoa
+Spaghetti
+Snacks
+Candy
+Chocolate
+Cookies
+Crackers
+Dip/Salsa
+Dried Fruit
+Granola Bars
+Gum
+Licorice
+Nuts/Seeds
+Popcorn
+Potato Chips
+Pretzels
+Pudding
+Raisins
+Seeds
+Tortilla Chips
+Drinks
+Water
+Juice
+Soda Pop
+Sports Drinks
+Tea
+Club Soda
+Mixers
+Protein Drinks
+Meat
+Bacon
+Chicken
+Ground Beef
+Deli Meat
+Fish 
+Ground Turkey
+Ham
+Hot Dogs 
+Pork
+Sausage 
+Steak
+Turkey
+Legumes
+Beans
+Lentils
+Dried Peas
+Spices Herbs
+Basil
+Black Pepper
+Cilantro
+Cinnamon
+Cumin
+Garlic
+Ginger
+Mint
+Onion Powder
+Oregano
+Paprika
+Parsley
+Red Pepper
+Salt
+Spice Mix
+Vanilla
+Baby
+Baby Cereal
+Baby Food 
+Bottles
+Binkis
+Formula
+Diapers
+Wipes
+Formula
+Lotion
+Baby Wash
+Paper/Plastic
+Aluminum Foil
+Cups
+Garbage Bags 
+Gallon Bags
+Napkins
+Paper Towels
+Plastic Wrap
+Plates
+Sandwich Bags
+Snack Bags
+Tissues
+Toilet Paper
+Utensils
+Wax Paper
+Household
+Air Freshener
+Batteries
+Bleach
+Charcoal
+Detergent
+Dish Soap
+Dishwasher Det
+Fabric Softener
+Glass Cleaner
+Light Bulbs
+Mop Head
+Sponges
+Vacuum Bags
+Personal
+Deodorant 
+Bandaids
+Bath/Hand Soap
+Cosmetics
+Cotton Balls
+Cotton Swabs
+Facial Cleanser
+Feminine Prod
+Floss
+Hair Gel
+Hair Spray
+Lip Balm
+Lotion
+Makeup
+Medicine
+Razors
+Shampoo/Cond
+Shaving Cream
+Sunscreen
+Toothbrush
+Toothpaste
+Vitamins

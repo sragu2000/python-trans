@@ -1,0 +1,9 @@
+pip install googletrans==3.1.0a0
+pip install xlsxwriter
+
+Languages
+
+import googletrans
+print(googletrans.LANGUAGES)
+
+Current lang order : English, Tamil, Punjabi, Hindi, Chinese
